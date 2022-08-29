@@ -1,0 +1,15 @@
+{
+  "name": "modernage",
+  "version": "1.0.0",
+  "description": "Modern Age Interview Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^28.1.8",
+    "ts-jest": "^28.0.8"
+  }
+}
